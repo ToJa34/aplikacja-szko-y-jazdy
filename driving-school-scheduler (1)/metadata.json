@@ -1,0 +1,6 @@
+
+{
+  "name": "Driving School Scheduler",
+  "description": "An application for driving instructors and students to manage lessons and track progress. It features a shared calendar, role-based access for students, instructors, and administrators, and respects system light/dark themes.",
+  "requestFramePermissions": []
+}
